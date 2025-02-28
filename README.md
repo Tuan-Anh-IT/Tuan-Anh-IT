@@ -14,7 +14,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working as a `Security` Specialist.
+- 🔭 I’m currently working as a `Cyber` Security.
 - 🌱 I’m currently learning `Information Security` and `Framework`:D
 - 💬 Ask me about **It, Web and Security**
 - 📍 From Ho Chi Minh City.
