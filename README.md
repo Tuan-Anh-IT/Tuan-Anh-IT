@@ -1,6 +1,8 @@
 ### 🌐 A passionate cybersecurity professional dedicated to mastering the latest and most complete technologies.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&weight=100&size=46&pause=1000&color=24F2F7&background=96EBFF00&width=435&lines=Welcome+to+my+profile!!;Hi!+I'm+TuanAnh;I'm+a+cybersecurity+specialist+%3C3)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&weight=100&size=30&pause=1000&color=24F2F7&background=96EBFF00&width=435&lines=Welcome+to+my+profile!!;Hi!+I'm+TuanAnh;I'm+a+cybersecurity+specialist+%3C3)](https://git.io/typing-svg)
 
 <br>
  
@@ -65,11 +67,12 @@
 </table>
 
 ###
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tuan-Anh-IT/Tuan-Anh-IT/master/assets/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tuan-Anh-IT/Tuan-Anh-IT/master/assets/github-contribution-grid-snake.svg">
-  </picture>
+<p >
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+    </picture>
 </p>
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
