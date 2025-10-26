@@ -41,8 +41,8 @@
 <table align="center">
     <td>
         <h3 align="center">⌨ Languages ⌨</h3>
-        <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,mysql" /><br>
-        <img src="https://skillicons.dev/icons?i=powershell,bash,perl,ruby,php" /><br>
+        <img src="https://skillicons.dev/icons?i=python,perl,ruby,php,javascript,mysql" /><br>
+        <img src="https://skillicons.dev/icons?i=powershell,bash" /><br>
     </td>
     <td>
         <h3 align="center">🔧 Tools 🔧</h3>
