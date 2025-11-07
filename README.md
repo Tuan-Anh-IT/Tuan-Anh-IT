@@ -81,11 +81,11 @@
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuan-Anh-IT&theme=tokyo-night&hide_border=true&area=true&line=24F2F7&point=24F2F7&color=24F2F7" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Tuan-Anh-IT&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect With Me
