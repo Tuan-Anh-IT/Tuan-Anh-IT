@@ -69,7 +69,7 @@
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuan-Anh-IT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
         <br><br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tuan-Anh-IT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Tuan-Anh-IT&theme=tokyonight&hide_border=true&background=0D1117&ring=24F2F7&fire=24F2F7&currStreakLabel=24F2F7&dates=24F2F7" />
       </td>
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tuan-Anh-IT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=10&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
